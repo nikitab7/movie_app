@@ -1,4 +1,4 @@
-# Movie Browser App
+# Movie Browser App (TMDb)
 
 Allows users to browse new/popular movies, view details, and manage their favorite movies.
 

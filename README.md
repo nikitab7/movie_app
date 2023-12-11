@@ -1,6 +1,6 @@
 # Movie Browser App
 
-Welcome to the Movie Browser App! This React Native application allows users to browse movies, view details, and manage their favorite movies.
+Allows users to browse movies, view details, and manage their favorite movies.
 
 ## Features
 

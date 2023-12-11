@@ -1,6 +1,6 @@
 # Movie Browser App
 
-Allows users to browse movies, view details, and manage their favorite movies.
+Allows users to browse new/popular movies, view details, and manage their favorite movies.
 
 ## Features
 

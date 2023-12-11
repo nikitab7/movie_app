@@ -4,7 +4,7 @@ Allows users to browse new/popular movies, view details, and manage their favori
 
 ## Features
 
-- Browse movies from different lists (top-rated, upcoming, now playing).
+- Browse movies from different lists from the TMDb database (top-rated, upcoming, now playing).
 - View detailed information about each movie, including cast, videos, genres, and runtime.
 - Add and remove movies from your favorites list.
 - Watch trailers embedded within the app.
